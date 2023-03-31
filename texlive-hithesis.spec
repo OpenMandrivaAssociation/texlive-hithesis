@@ -1,6 +1,6 @@
 Name:		texlive-hithesis
 Version:	64005
-Release:	1
+Release:	2
 Summary:	Harbin Institute of Technology Thesis Template
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/hithesis
