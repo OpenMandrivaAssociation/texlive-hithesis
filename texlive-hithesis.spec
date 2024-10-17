@@ -3,7 +3,7 @@ Version:	64005
 Release:	2
 Summary:	Harbin Institute of Technology Thesis Template
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/hithesis
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/hithesis
 License:	lppl1.3a
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/hithesis.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/hithesis.doc.r%{version}.tar.xz
